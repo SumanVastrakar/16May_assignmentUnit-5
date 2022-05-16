@@ -1,0 +1,46 @@
+{
+  "userInfo": [
+    {
+      "id" : 1,
+      "imgUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHuQGCPQ6rSXYQrA4BTH4t8q7eXu4kRZTXw&usqp=CAU",
+      "name" : "Annette Murphy",
+      "email" :  "Annette@gmail.com",
+      "contactNo" : "+91-9256890457"
+  },
+  {
+      "id" : 2,
+      "imgUrl" : "https://i.pinimg.com/474x/be/c3/82/bec38299f9cd4a143b8289c3df117759.jpg",
+      "name" : "Theresa Watson",
+      "email" :  "Theresa@gmail.com",
+      "contactNo" : "+91- 71356890457"
+  },
+  {
+      "id" : 3,
+      "imgUrl" : "https://i.pinimg.com/originals/7f/f3/88/7ff38805b77cf721756ddae73c5eaa30.jpg",
+      "name" : "Cody Howard",
+      "email" :  "Cody@gmail.com",
+      "contactNo" : "+91- 6356890457"
+  },
+  {
+      "id" : 4,
+      "imgUrl" : "https://i.pinimg.com/originals/aa/d9/c3/aad9c3a5f6080f91a71d6385526776c7.jpg",
+      "name" : "Max Lane",
+      "email" :  "Max@gmail.com",
+      "contactNo" : "+91- 8356890457"
+  },
+  {
+      "id" : 5,
+      "imgUrl" : "https://i.pinimg.com/originals/a2/a2/82/a2a2826b17a7fe5057a13f30eaa1fb5b.jpg",
+      "name" : "Marvin Fisher",
+      "email" :  "Marvin@gmail.com",
+      "contactNo" : "+91- 6356890457"
+  },
+  {
+      "id" : 6,
+      "imgUrl" : "https://i.pinimg.com/originals/e9/00/fa/e900fa9cd835f05b14cd4e0155bd03e6.jpg",
+      "name" : "Brookiyn Mccoy",
+      "email" :  "Brookiyn@gmail.com",
+      "contactNo" : "+91- 7356890457"
+  }
+  ]
+}
